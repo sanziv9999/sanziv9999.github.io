@@ -86,13 +86,15 @@ export const FALLBACK_PROJECTS = [
 export const skills = [
   'Python',
   'Java',
+  'C',
+  'PHP',
+  'Laravel',
   'JavaScript',
   'React',
   'Django',
   'FastAPI',
   'Flask',
   'Spring Boot',
-  'Node.js',
   'PostgreSQL',
   'MySQL',
   'Docker',
@@ -101,4 +103,6 @@ export const skills = [
   'Tailwind CSS',
   'Vite',
   'Git',
+  'IoT',
+  'Arduino'
 ]
